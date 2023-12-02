@@ -1,0 +1,46 @@
+/* Style for blog posts */
+.blog-posts {
+    margin-top: 20px;
+}
+
+.blog-post {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.blog-post h3 {
+    margin-top: 0;
+}
+
+.post-date {
+    color: #888;
+    font-style: italic;
+}
+
+/* Style for blog post images */
+.blog-post img {
+    width: 100%; /* Adjust image width as needed */
+    height: auto; /* Maintain image aspect ratio */
+    border-radius: 5px;
+    margin-bottom: 10px; /* Adjust space between image and content */
+}
+
+/* Style for back button */
+.btn-back {
+    display: block;
+    width: 150px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn-back:hover {
+    background-color: #2980b9;
+}

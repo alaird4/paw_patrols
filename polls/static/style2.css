@@ -1,0 +1,14 @@
+/* Style for the Back to Home Page button */
+.btn-back {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.btn-back:hover {
+    background-color: #2980b9;
+}

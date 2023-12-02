@@ -1,0 +1,44 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Title of website -->
+    <title>Paw Patrols</title>
+    <style>
+        /* Style the buttons */
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            background-color: #3498db; /* Button background color */
+            color: white; /* Button text color */
+            border-radius: 5px;
+            margin: 5px;
+            font-size: 16px;
+        }
+
+        /* Hover effect */
+        .button:hover {
+            background-color: #2980b9; /* Darker background color on hover */
+        }
+    </style>
+</head>
+<body>
+    <!-- Image added to the template -->
+    <!-- Image added to the template -->
+    <img src="{% static 'images/dogs.png' %}" alt="Paw Patrols Image">
+
+    <!-- Context of what to say when entering the website -->
+    <h1>Hello World!</h1>
+    <p><h2>Welcome to Paw Patrols!</h2></p>
+    <p>The site where you can sign your dog up to be looked after</p>
+    <p>We can also provide dog walking services</p>
+    <p>Or simply look at some adorable pictures of dogs and read all about them</p>
+
+    <!-- Buttons to navigate to Blogs and Polls -->
+    <a href="/blog/" class="button">View Blogs</a>
+    <a href="/polls/" class="button">Take Polls</a>
+
+</body>
+</html>
