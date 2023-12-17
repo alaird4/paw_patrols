@@ -5,6 +5,12 @@ from django.views import generic
 
 # Create your views here.
 class SignUpView(generic.CreateView):
+    """
+    View for user signup.
+
+    Inherits from django.views.generic.edit.CreateView.
+    """
+
     form_class = UserCreationForm
     success_url = reverse_lazy("login")
     template_name = "signup.html"
