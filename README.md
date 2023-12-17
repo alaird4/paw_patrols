@@ -18,14 +18,14 @@
     <p>Purpose: To build a dog website that allows viwers to learn more about dogs, answer some poll questions that relates to them. </p>
     <p>I hope you enjoy my paw_patrols website created through python and django.</p>
     <br />
-    <a href="https://github.com/alaird4/Task_manager"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alaird4/paw_patrols.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/alaird4/Task_manager">View Demo</a>
+    <a href="https://github.com/alaird4/paw_patrols.git">View Demo</a>
     ·
-    <a href="https://github.com/alaird4/Task_manager/issues">Report Bug</a>
+    <a href="https://github.com/alaird4/paw_patrols.git/issues">Report Bug</a>
     ·
-    <a href="https://github.com/alaird4/Task_manager/issues">Request Feature</a>
+    <a href="https://github.com/alaird4/paw_patrols.git/issues">Request Feature</a>
   </p>
 </div>
 
@@ -57,11 +57,7 @@
 
 ### Built With
 
-Python 
-
-![image](https://github.com/alaird4/Task_manager/assets/116030750/10b1064d-6be5-466c-a954-d57074d6a593)
-
-Django 
+Django and Python 
 
 <img width="626" alt="image" src="https://github.com/alaird4/paw_patrols/assets/116030750/49e9b57c-c7b3-4f27-bab0-a2d5ae38024d">
 
@@ -200,7 +196,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ashley Laird - [LinkedIn](https://uk.linkedin.com/in/ashley-laird-39415ab7) - ashley.laird93@yahoo.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: https://github.com/alaird4/paw_patrols.git 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
