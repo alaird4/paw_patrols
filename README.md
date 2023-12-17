@@ -84,11 +84,16 @@ This is an example of how to list things you need to use the software and how to
   python --version
   ```
 
+* Django
+  ```sh
+  Ensure django is downloaded in your virtual environment: https://code.visualstudio.com/docs/python/tutorial-django
+  ```
+
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/alaird4/Task_manager
+   git clone https://github.com/alaird4/paw_patrols.git
    ```
 2. Install python packages
    ```sh
